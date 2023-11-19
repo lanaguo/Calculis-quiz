@@ -1,0 +1,11 @@
+.equations-choice {
+    display: inline;
+}
+
+.equations-choice-single {
+    display: inline;
+    width: 50%;
+    height: 200px;
+    max-width: 300px;
+    background-color: bisque;
+}
